@@ -51,7 +51,7 @@ fn at_404() -> Document {
 fn use_base() -> View {
     view! {
         HEAD {
-            @use_meta [Meta::new()]
+            @use_meta [ibex::meta! {}]
             title { "My Ibex App" }
             link [rel="shortcut icon", href=url!("static/icon.png")]/
             link [rel="stylesheet", href=url!("css/base.css")]/
