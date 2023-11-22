@@ -55,6 +55,7 @@ fn use_base() -> View {
             title { "My Ibex App" }
             link [rel="shortcut icon", href=url!("static/icon.png")]/
             link [rel="stylesheet", href=url!("css/base.css")]/
+            @ssg::use_autoreload
         }
     }
 }
