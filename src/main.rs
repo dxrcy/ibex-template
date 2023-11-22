@@ -14,9 +14,7 @@ fn main() {
 }
 
 fn at_index() -> Document {
-    view! {
-        @use_base
-
+    view! { @use_base
         center {
             h1 { "My Ibex App" }
             p {
@@ -38,9 +36,7 @@ fn at_index() -> Document {
 }
 
 fn at_404() -> Document {
-    view! {
-        @use_base
-
+    view! { @use_base
         center {
             "404 - Not found"
         }
