@@ -21,9 +21,15 @@ just serve
 
 ## GitHub Pages Setup
 
+### Deploy from branch (Default method)
+
 GitHub will automatically build to the `gh-pages` branch, with the `deploy.yaml` Action. The action will automatically run when the repository is initially cloned.
 
 In repository settings, navigate to the `Pages` tab, and change 'Branch' to `gh-pages`. GitHub pages will automatically update, and the website should be live soon.
+
+### *Beta* GitHub Action (Alternate method)
+
+> This section is missing, but you can see [https://github.com/darccyy/garfeo](this repository) for a working example.
 
 # File structure
 
