@@ -14,8 +14,8 @@ fn main() {
 }
 
 fn at_index() -> Document {
-    view! { @use_base []
-        center {
+    document! { [lang="en"] @use_base []
+        div [style="text-align: center"] {
             h1 { "My Ibex App" }
             p {
                 "This app was made using"
@@ -32,11 +32,10 @@ fn at_index() -> Document {
             ]/
         }
     }
-    .into()
 }
 
 fn at_404() -> Document {
-    view! { @use_base []
+    document! { [lang="en"] @use_base []
         center {
             "404 - Not found"
         }
