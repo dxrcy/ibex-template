@@ -42,7 +42,6 @@ fn at_404() -> Document {
             "404 - Not found"
         }
     }
-    .into()
 }
 
 fn use_base() -> View {
