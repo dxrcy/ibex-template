@@ -6,3 +6,6 @@ body {
 body a {
   color: inherit;
 }
+body .center {
+  text-align: center;
+}
