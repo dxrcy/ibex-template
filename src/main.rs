@@ -38,7 +38,7 @@ fn at_index() -> Document {
 fn at_404() -> Document {
     document! { [lang="en"]
         @use_base []
-        center {
+        div ."center" {
             "404 - Not found"
         }
     }
