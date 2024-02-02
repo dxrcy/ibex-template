@@ -2,7 +2,7 @@
 
 Simple template for an [Ibex](https://github.com/dxrcy/ibex) SSG site.
 
-- [Live on GitHub Pages](https://dxrcy.github.io/ibex-template)
+- [Live on GitHub Pages](https://dxrcy.dev/ibex-template)
 
 # Usage
 
