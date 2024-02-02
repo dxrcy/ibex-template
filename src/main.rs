@@ -20,7 +20,7 @@ fn at_index() -> Document {
             h1 { "My Ibex App" }
             p {
                 "This app was made using"
-                ~ a [href="https://github.com/darccyy/ibex-template"] {
+                ~ a [href="https://github.com/dxrcy/ibex-template"] {
                     "Ibex Template"
                 }
             }

@@ -5,5 +5,5 @@ edition = "2021"
 
 [dependencies]
 # ibex = { path = "../ibex/main" }
-ibex = { git = "https://github.com/darccyy/ibex" }
+ibex = { git = "https://github.com/dxrcy/ibex" }
 # ibex = { package = "ibex_alpha" }

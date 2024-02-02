@@ -1,14 +1,14 @@
 # Ibex Template
 
-Simple template for an [Ibex](https://github.com/darccyy/ibex) SSG site.
+Simple template for an [Ibex](https://github.com/dxrcy/ibex) SSG site.
 
-- [Live on GitHub Pages](https://darccyy.github.io/ibex-template)
+- [Live on GitHub Pages](https://dxrcy.github.io/ibex-template)
 
 # Usage
 
 ```sh
 # Clone the repo
-git clone https://github.com/darccyy/ibex-template my-ibex-app
+git clone https://github.com/dxrcy/ibex-template my-ibex-app
 cd my-ibex-app
 git remote remove origin
 
@@ -29,7 +29,7 @@ In repository settings, navigate to the `Pages` tab, and change 'Branch' to `gh-
 
 ### *Beta* GitHub Action (Alternate method)
 
-> This section is missing, but you can see [https://github.com/darccyy/garfeo](this repository) for a working example.
+> This section is missing, but you can see [https://github.com/dxrcy/garfeo](this repository) for a working example.
 
 # File structure
 
